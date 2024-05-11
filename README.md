@@ -1,4 +1,4 @@
-# testapp
+# Government city college mobile app
 
 A new Flutter project.
 
